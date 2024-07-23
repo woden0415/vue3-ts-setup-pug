@@ -30,7 +30,7 @@ export default {
 
 <template lang="pug">
 div()
-  span() {{ count  }}
+  span() {{ count }}
   button(@click="addCount") addCount
   hr
   span() {{ data.name }}

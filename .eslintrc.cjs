@@ -8,6 +8,7 @@ module.exports = {
     'eslint:recommended',
     '@vue/eslint-config-typescript',
     '@vue/eslint-config-prettier/skip-formatting',
+    'plugin:vue/vue3-recommended',
     'plugin:vue-pug/vue3-recommended'
   ],
   parserOptions: {
